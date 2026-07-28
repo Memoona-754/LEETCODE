@@ -27,8 +27,17 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Memoona-754/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Memoona-754/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Memoona-754/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Memoona-754/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Memoona-754/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
