@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Memoona-754/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Memoona-754/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/Memoona-754/LEETCODE/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Memoona-754/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/Memoona-754/LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
