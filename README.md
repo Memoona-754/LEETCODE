@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Memoona-754/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Memoona-754/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
