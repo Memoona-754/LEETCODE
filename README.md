@@ -19,6 +19,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Memoona-754/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Memoona-754/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
