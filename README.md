@@ -7,12 +7,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/Memoona-754/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Memoona-754/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0496-next-greater-element-i](https://github.com/Memoona-754/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Memoona-754/LEETCODE/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Memoona-754/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Memoona-754/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/Memoona-754/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Memoona-754/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
@@ -68,4 +70,12 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Memoona-754/LEETCODE/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Memoona-754/LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
