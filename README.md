@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Memoona-754/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Memoona-754/LEETCODE/tree/master/0007-reverse-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Memoona-754/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
