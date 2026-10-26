@@ -26,6 +26,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Memoona-754/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -103,4 +104,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Memoona-754/LEETCODE/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
