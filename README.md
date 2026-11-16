@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Memoona-754/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Memoona-754/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Memoona-754/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Memoona-754/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Memoona-754/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
