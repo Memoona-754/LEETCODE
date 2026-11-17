@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Memoona-754/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0496-next-greater-element-i](https://github.com/Memoona-754/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Memoona-754/LEETCODE/tree/master/0704-binary-search) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Memoona-754/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Memoona-754/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Memoona-754/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Memoona-754/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Memoona-754/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Memoona-754/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Memoona-754/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Memoona-754/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
