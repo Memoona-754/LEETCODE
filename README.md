@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Memoona-754/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0496-next-greater-element-i](https://github.com/Memoona-754/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Memoona-754/LEETCODE/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Memoona-754/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Memoona-754/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Memoona-754/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Memoona-754/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -70,6 +72,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Memoona-754/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/Memoona-754/LEETCODE/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Memoona-754/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +87,7 @@
 | [0141-linked-list-cycle](https://github.com/Memoona-754/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Memoona-754/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Memoona-754/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
